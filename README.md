@@ -18,5 +18,7 @@ Display a table showing UFO data within a JavaScript array. This website visuali
 
 ## Summary 
 
-This created website can be used for looking through differents filters but one thing that could be improved is the case sensitive in those filters. This is a recommendation
- 
+This created website contains a lot of information and you can look through many differents filters but one thing that could be improved is the case sensitive in those filters. This is a recommendation
+
+
+
