@@ -8,11 +8,11 @@ Display a table showing UFO data within a JavaScript array. This website visuali
 
 ## Results 
 
-    * Main look at the website 
+* Main look at the website 
 
 <img src="images/Header.png" width="500">
 
-    * Filters 
+* Filters 
 
 <img src="images/filters.png" width="500">
 
